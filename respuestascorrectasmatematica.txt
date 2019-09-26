@@ -1,0 +1,1 @@
+1/x,e^x,10,0,48,y=mx,por sumas sucesivas,-50,1611,2

@@ -1,0 +1,1 @@
+1*x,no tiene,11,no existe,57,y=x+1,dividiendo,-125,1737,3
